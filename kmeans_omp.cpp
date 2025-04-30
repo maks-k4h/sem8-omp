@@ -7,7 +7,7 @@
 using namespace cv;
 
 int main() {
-    const int k = 5;         // Number of clusters
+    const int k = 15;         // Number of clusters
     const int max_iters = 100; // Max iterations
     const float epsilon = 1.0f; // Convergence threshold
 
